@@ -1,9 +1,12 @@
 # Basic Spring-Crud-Operation-with-mySql
 
+
 # Data base CRUD operation using mysql
 
-1. Download mysql workbench server for Mac and setup
-2. Download mysql workbench set schema and password
+1.install my sql : https://dev.mysql.com/downloads/mysql/
+2. got mac setting and start mysql
+3. Download mysql workbench server for Mac and setup
+4. Download mysql workbench set schema and password
 
 
 # in project in resources application.prop
